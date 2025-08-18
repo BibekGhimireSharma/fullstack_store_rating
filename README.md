@@ -9,6 +9,13 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)]()
 
 ---
+## 🔑 Demo Admin Credentials (for testing)
+You can use the following credentials to log in as an admin:
+
+- **Email:** Roxiler@gmail.com  
+- **Password:** Roxiler  
+
+---
 
 ## 📌 Table of Contents
 
