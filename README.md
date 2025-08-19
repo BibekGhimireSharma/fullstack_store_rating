@@ -59,7 +59,7 @@ It ensures **scalability, security, and smooth interaction** between the **React
 * **Database:** PostgreSQL
 * **Dev Tools:** Nodemon, dotenv, npm
 
----
+-----
 
 ## 📂 Project Structure
 
