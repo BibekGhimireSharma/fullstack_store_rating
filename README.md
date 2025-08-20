@@ -140,7 +140,7 @@ npm test
 
 ## 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are always welcome
 
 1. Fork the project
 2. Create a new branch (`git checkout -b feature-name`)
