@@ -18,7 +18,7 @@ function App() {
   const [isSignup, setIsSignup] = useState(false);
 
 
-  // Fetch stores
+  // Fetch stores...>
   useEffect(() => {
     if (token) fetchStores();
   }, [token]);
