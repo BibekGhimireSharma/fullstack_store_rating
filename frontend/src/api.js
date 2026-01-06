@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://fsr-host.onrender.com";
 
 // Stores & Ratings
 export const getStores = () => axios.get(`${API_URL}/stores`);

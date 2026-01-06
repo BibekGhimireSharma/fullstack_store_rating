@@ -10,7 +10,12 @@ const crypto = require("crypto");
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: [
+    "https://fsr-frontend.onrender.com"
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 // Test Route
